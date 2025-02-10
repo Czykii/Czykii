@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A fourth year applied computer science student at the Jagiellonian University.</h3>
+<h3 align="center">A fifth year applied computer science student at the Jagiellonian University.</h3>
 
 <div align="center">
   
